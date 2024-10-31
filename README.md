@@ -1,20 +1,4 @@
-Certainly! Here’s a detailed `README.md` template, tailored to your project requirements:
 
-```markdown
-# Real-Time Dashboard Application
-
-This repository contains the **Real-Time Dashboard Application**, a full-stack application with separate backend and frontend services. This dashboard provides role-specific views (admin, manager, user) with data visualizations and real-time updates.
-
-## Table of Contents
-
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Backend Setup](#backend-setup)
-- [Frontend Setup](#frontend-setup)
-- [Running the Application](#running-the-application)
-- [Additional Information](#additional-information)
-
----
 
 ## Project Structure
 
