@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 - **Node.js** (v14 or higher)
 - **npm** (v6 or higher) or **yarn**
-- **Docker** (optional, for containerized setup)
+
 
 ---
 
